@@ -12,7 +12,11 @@
 I did some research on Youtube and stuff and realized something: Arm's are expensive.
 But it's okay because HACK CLUB IS HERE!!!! (we love you hack club)
 Anyway I looked around and found that servos are basically the way to go on robotic arms because of the fact that stepper motors lose accuracy after a while and need a driver module, whereas servos have all of that built in and are more accurate. Stepper motors are more powerful, but just aren't right for this project. I decided on the MG996R for the servo, which is powerful with high torque. Since this arm isn't gonna do anything except aura farm by picking up objects that aren't relatively heavy, this servo is perfect. I also cadded a little bit, but will post pics of that later on. I also decided to use the ATMega 2560 arduino board that I have lying around because it has a lot of GPIO pins. Need to research on what power supply I can use to power all of this though...
+
+
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzU4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--a5814f20a4e5476c75e46510168ca55b72ee5a89/image.png)
+
+
 Image Credit: [https://handsontec.com/index.php/product/mg996r-metal-gear-servo-motor-continuous-rotation/]
 (Not the exact place I'll buy from but shows internals well lol)
   
