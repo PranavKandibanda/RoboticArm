@@ -17,3 +17,16 @@ Image Credit: [https://handsontec.com/index.php/product/mg996r-metal-gear-servo-
 (Not the exact place I'll buy from but shows internals well lol)
   
 
+## 11/2/2025 - Starting The CAD  
+
+So I finally started the cad today! Yes I know its a big jump directly from 1 day of research but having my parts down really helps! I spent the entire time today just finding good cad files for the project, since clearance is very important for a arm. I just started on the base today! I am mostly done with the foundation for the shoulder joint.
+![Screenshot 2025-11-02 192604](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzkyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--03290df13eb7b36b4a7ed86c6aa5e7fd38bb8172/Screenshot%202025-11-02%20192604.png)
+The problem of the day today was the wires coming out of the servo. Since the servo needs PWM and power, I need to account for the tolerance for the wires. I am good at Fusion, but I had blanked really hard here for some reason. I just solved it by projecting the sketch of the extrusion onto my block and added that onto the main base. I think a visual would help more than me yapping:
+![Screenshot 2025-11-02 192900](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzkyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--888ac8bdc9d94af1842b94d8dca3c0c54caa6945/Screenshot%202025-11-02%20192900.png)
+Anyways heres how the servo is fixed to the base:
+![Screenshot 2025-11-02 192652](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzkyNywicHVyIjoiYmxvYl9pZCJ9fQ==--1b16b8cd18eaccc18341217f0c87c85c43d4f0c8/Screenshot%202025-11-02%20192652.png)
+Thanks for reading! Come back tommorrow to see the progress!!
+
+
+  
+
